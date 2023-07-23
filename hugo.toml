@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://clangfr.github.io/website/'
 languageCode = 'en-us'
 title = 'Clan GFR'
 theme = 'sacred-red'
