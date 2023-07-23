@@ -1,0 +1,3 @@
+[submodule "themes/sacred-red"]
+	path = themes/sacred-red
+	url = git@github.com:clangfr/sacred-red-hugo-theme.git
