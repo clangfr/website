@@ -3,10 +3,22 @@ languageCode = 'en-us'
 title = 'Clan GFR'
 theme = 'sacred-red'
 
+[params]
+  description = 'Site oficial do clan GFR'
+
 [[menu.main]]
   name = 'Início'
   url = '/'
+  weight = -1
 
 [[menu.main]]
   name = 'Membros'
-  url = '/membros'
+  url = '/membros/'
+
+[[menu.main]]
+  name = 'Screenshots'
+  url = '/screenshots/'
+
+[[menu.main]]
+  name = 'Hierarquia'
+  url = '/hierarquia'
