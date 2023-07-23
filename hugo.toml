@@ -22,3 +22,7 @@ theme = 'sacred-red'
 [[menu.main]]
   name = 'Hierarquia'
   url = '/hierarquia'
+
+[[menu.main]]
+  name = 'Código de conduta'
+  url = '/codigo-de-conduta'
