@@ -1,0 +1,12 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Clan GFR'
+theme = 'sacred-red'
+
+[[menu.main]]
+  name = 'Início'
+  url = '/'
+
+[[menu.main]]
+  name = 'Membros'
+  url = '/membros'
